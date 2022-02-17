@@ -1,0 +1,22 @@
+{
+  "name": "build-pipeline",
+  "version": "1.0.0",
+  "description": "## Checklist",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lahernandezb/build-pipeline.git"
+  },
+  "author": "Luis Hernandez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lahernandezb/build-pipeline/issues"
+  },
+  "homepage": "https://github.com/lahernandezb/build-pipeline#readme",
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  }
+}
