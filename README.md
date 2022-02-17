@@ -2,10 +2,10 @@
 
 ## Checklist
 
-- [ ] Docker
-  - [ ] Dockerfile
-  - [ ] Docker-compose.yml
-  - [ ] Persistent Volume
+- [x] Docker
+  - [x] Dockerfile
+  - [x] Docker-compose.yml
+  - [x] Persistent Volume
 - [ ] ESLint
 - [ ] Stylelint
 - [ ] Test Suite _Your choice_
