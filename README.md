@@ -6,8 +6,8 @@
   - [x] Dockerfile
   - [x] Docker-compose.yml
   - [x] Persistent Volume
-- [ ] ESLint
-- [ ] Stylelint
+- [x] ESLint
+- [x] Stylelint
 - [ ] Test Suite _Your choice_
 - [ ] Webpack - This project should have at least 2 TS files using the import/export syntax
 - [ ] CodeClimate - Should fail a build if it doesn't pass checks
